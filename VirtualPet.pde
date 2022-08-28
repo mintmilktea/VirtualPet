@@ -54,6 +54,6 @@ void draw() {
   
   //straw hat
   fill(#E9F2A6);
-  triangle(250, 80, 210, 125, 290, 125);
+  triangle(250, 80, 140, 130, 360, 130);
 
 }
